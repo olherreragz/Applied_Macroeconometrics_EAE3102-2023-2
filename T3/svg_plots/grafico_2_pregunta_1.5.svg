@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- This is a Stata 18.0 generated SVG file (http://www.stata.com) -->
+
+<svg version="1.1" width="7.500in" height="4.500in" viewBox="0 0 5400 3240" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>Stata Graph - Graph</desc>
+	<rect x="0" y="0" width="5400" height="3240" style="fill:#FFFFFF;stroke:none"/>
+	<rect x="0.00" y="0.00" width="5400.00" height="3240.00" style="fill:#FFFFFF"/>
+	<rect x="3.24" y="3.24" width="5393.52" height="3233.52" style="fill:none;stroke:#FFFFFF;stroke-width:6.48"/>
+	<rect x="689.01" y="309.82" width="4597.59" height="1696.78" style="fill:#FFFFFF"/>
+	<rect x="692.25" y="313.06" width="4591.11" height="1690.30" style="fill:none;stroke:#000000;stroke-width:6.48"/>
+	<path d=" M1102.95 1484.66 L1171.46 1469.14 L1239.97 1438.09 L1308.49 1562.46 L1377.00 1546.93 L1445.68 1593.51 L1514.19 1531.41 L1582.71 1515.88 L1651.22 1562.46 L1719.73 1515.88 L1788.24 1826.72 L1856.76 1842.24 L1925.44 1811.19 L1993.95 1811.19 L2062.46 1811.19 L2130.98 1671.30 L2199.49 1624.56 L2268.00 1531.41 L2336.68 1624.56 L2405.19 1577.98 L2473.71 1593.51 L2542.22 1562.46 L2610.73 1344.77 L2679.24 1375.99 L2747.76 1313.72 L2816.44 1220.40 L2884.95 1251.62 L2953.46 1360.29 L3021.98 1313.72 L3090.49 1329.24 L3159.00 1189.35 L3227.68 1064.98 L3296.19 1064.98 L3364.71 1080.51 L3433.22 987.36 L3501.73 738.62 L3570.24 676.52 L3638.93 707.57 L3707.44 521.10 L3775.95 521.10 L3844.46 552.15 L3912.98 567.68 L3981.49 567.68 L4050.00 505.41 L4118.68 505.41 L4187.19 505.41 L4255.71 567.68 L4324.22 645.30 L4392.73 660.99 L4461.24 785.19 L4529.93 1002.88" stroke-linejoin="round" style="fill:none;stroke:#0080FF;stroke-width:9.72"/>
+	<path d=" M1102.95 579.32 L1171.46 579.32 L1239.97 579.32 L1308.49 579.32 L1377.00 579.32 L1445.68 579.32 L1514.19 579.32 L1582.71 579.32 L1651.22 579.32 L1719.73 579.32 L1788.24 579.32 L1856.76 579.32 L1925.44 579.32 L1993.95 579.32 L2062.46 579.32 L2130.98 579.32 L2199.49 579.32 L2268.00 579.32 L2336.68 579.32 L2405.19 579.32 L2473.71 579.32 L2542.22 579.32 L2610.73 579.32 L2679.24 579.32 L2747.76 579.32 L2816.44 579.32 L2884.95 579.32 L2953.46 579.32 L3021.98 579.32 L3090.49 579.32 L3159.00 579.32 L3227.68 579.32 L3296.19 579.32 L3364.71 579.32 L3433.22 579.32 L3501.73 579.32 L3570.24 579.32 L3638.93 579.32 L3707.44 579.32 L3775.95 579.32 L3844.46 579.32 L3912.98 579.32 L3981.49 579.32 L4050.00 579.32 L4118.68 579.32 L4187.19 579.32 L4255.71 579.32 L4324.22 579.32 L4392.73 579.32 L4461.24 579.32 L4529.93 579.32 L4598.44 579.32 L4666.95 579.32 L4735.46 579.32 L4803.98 579.32 L4872.49 579.32 L4941.00 579.32 L5009.68 579.32 L5078.19 579.32 L5146.71 579.32 L5215.22 579.32" stroke-linejoin="round" style="fill:none;stroke:#D41159;stroke-width:9.72"/>
+	<path d=" M1102.95 1485.68 L1171.46 1481.63 L1239.97 1477.24 L1308.49 1472.18 L1377.00 1466.78 L1445.68 1460.53 L1514.19 1453.95 L1582.71 1446.69 L1651.22 1438.93 L1719.73 1430.49 L1788.24 1421.38 L1856.76 1411.76 L1925.44 1401.47 L1993.95 1390.67 L2062.46 1379.03 L2130.98 1367.04 L2199.49 1354.22 L2268.00 1340.89 L2336.68 1326.88 L2405.19 1312.37 L2473.71 1297.35 L2542.22 1281.83 L2610.73 1265.63 L2679.24 1249.09 L2747.76 1231.88 L2816.44 1214.33 L2884.95 1196.44 L2953.46 1178.04 L3021.98 1159.31 L3090.49 1140.24 L3159.00 1120.84 L3227.68 1101.09 L3296.19 1081.18 L3364.71 1061.10 L3433.22 1040.68 L3501.73 1020.09 L3570.24 999.34 L3638.93 978.58 L3707.44 957.66 L3775.95 936.73 L3844.46 915.64 L3912.98 894.71 L3981.49 873.62 L4050.00 852.53 L4118.68 831.43 L4187.19 810.34 L4255.71 789.24 L4324.22 768.32 L4392.73 747.22 L4461.24 726.13 L4529.93 705.21" stroke-linejoin="round" style="fill:none;stroke:#00BF7F;stroke-width:9.72"/>
+	<path d=" M4598.44 1043.55 L4666.95 1092.49 L4735.46 1113.92 L4803.98 1089.79 L4872.49 1057.22 L4941.00 1011.66 L5009.68 958.16 L5078.19 904.84 L5146.71 853.20 L5215.22 805.95" stroke-linejoin="round" style="fill:none;stroke:#FFD400;stroke-width:9.72"/>
+	<line x1="689.01" y1="2006.61" x2="689.01" y2="309.82" style="stroke:#000000;stroke-width:6.48"/>
+	<line x1="689.01" y1="1935.39" x2="643.95" y2="1935.39" style="stroke:#000000;stroke-width:6.48"/>
+	<text x="621.51" y="1974.83" style="font-family:'Helvetica';font-size:112.56px;fill:#000000" text-anchor="end">2.00</text>
+	<line x1="689.01" y1="1624.56" x2="643.95" y2="1624.56" style="stroke:#000000;stroke-width:6.48"/>
+	<text x="621.51" y="1663.99" style="font-family:'Helvetica';font-size:112.56px;fill:#000000" text-anchor="end">4.00</text>
+	<line x1="689.01" y1="1313.72" x2="643.95" y2="1313.72" style="stroke:#000000;stroke-width:6.48"/>
+	<text x="621.51" y="1353.16" style="font-family:'Helvetica';font-size:112.56px;fill:#000000" text-anchor="end">6.00</text>
+	<line x1="689.01" y1="1002.71" x2="643.95" y2="1002.71" style="stroke:#000000;stroke-width:6.48"/>
+	<text x="621.51" y="1042.15" style="font-family:'Helvetica';font-size:112.56px;fill:#000000" text-anchor="end">8.00</text>
+	<line x1="689.01" y1="691.88" x2="643.95" y2="691.88" style="stroke:#000000;stroke-width:6.48"/>
+	<text x="621.51" y="731.31" style="font-family:'Helvetica';font-size:112.56px;fill:#000000" text-anchor="end">10.00</text>
+	<line x1="689.01" y1="381.04" x2="643.95" y2="381.04" style="stroke:#000000;stroke-width:6.48"/>
+	<text x="621.51" y="420.47" style="font-family:'Helvetica';font-size:112.56px;fill:#000000" text-anchor="end">12.00</text>
+	<text x="214.55" y="1158.30" style="font-family:'Helvetica';font-size:112.56px;fill:#000000" transform="rotate(-90 214.55,1158.30)" text-anchor="middle">Crecimiento porcentual</text>
+	<line x1="689.01" y1="2006.61" x2="5286.60" y2="2006.61" style="stroke:#000000;stroke-width:6.48"/>
+	<line x1="760.22" y1="2006.61" x2="760.22" y2="2051.66" style="stroke:#000000;stroke-width:6.48"/>
+	<text x="760.22" y="2152.81" style="font-family:'Helvetica';font-size:112.56px;fill:#000000" text-anchor="middle">2019m1</text>
+	<line x1="1582.71" y1="2006.61" x2="1582.71" y2="2051.66" style="stroke:#000000;stroke-width:6.48"/>
+	<text x="1582.71" y="2152.81" style="font-family:'Helvetica';font-size:112.56px;fill:#000000" text-anchor="middle">2020m1</text>
+	<line x1="2405.19" y1="2006.61" x2="2405.19" y2="2051.66" style="stroke:#000000;stroke-width:6.48"/>
+	<text x="2405.19" y="2152.81" style="font-family:'Helvetica';font-size:112.56px;fill:#000000" text-anchor="middle">2021m1</text>
+	<line x1="3227.68" y1="2006.61" x2="3227.68" y2="2051.66" style="stroke:#000000;stroke-width:6.48"/>
+	<text x="3227.68" y="2152.81" style="font-family:'Helvetica';font-size:112.56px;fill:#000000" text-anchor="middle">2022m1</text>
+	<line x1="4050.17" y1="2006.61" x2="4050.17" y2="2051.66" style="stroke:#000000;stroke-width:6.48"/>
+	<text x="4050.17" y="2152.81" style="font-family:'Helvetica';font-size:112.56px;fill:#000000" text-anchor="middle">2023m1</text>
+	<line x1="4872.66" y1="2006.61" x2="4872.66" y2="2051.66" style="stroke:#000000;stroke-width:6.48"/>
+	<text x="4872.66" y="2152.81" style="font-family:'Helvetica';font-size:112.56px;fill:#000000" text-anchor="middle">2024m1</text>
+	<text x="2987.89" y="2310.25" style="font-family:'Helvetica';font-size:112.56px;fill:#000000" text-anchor="middle">Mes</text>
+	<rect x="2081.87" y="2405.53" width="1811.87" height="682.26" style="fill:#FFFFFF"/>
+	<rect x="2085.11" y="2408.77" width="1805.39" height="675.78" style="fill:none;stroke:#FFFFFF;stroke-width:6.48"/>
+	<line x1="2130.47" y1="2510.32" x2="2389.67" y2="2510.32" style="stroke:#0080FF;stroke-width:9.72"/>
+	<line x1="2130.47" y1="2667.94" x2="2389.67" y2="2667.94" style="stroke:#D41159;stroke-width:9.72"/>
+	<line x1="2130.47" y1="2825.38" x2="2389.67" y2="2825.38" style="stroke:#00BF7F;stroke-width:9.72"/>
+	<line x1="2130.47" y1="2982.83" x2="2389.67" y2="2982.83" style="stroke:#FFD400;stroke-width:9.72"/>
+	<text x="2457.17" y="2549.76" style="font-family:'Helvetica';font-size:112.56px;fill:#000000">Índice de Remuneraciones</text>
+	<text x="2457.17" y="2707.37" style="font-family:'Helvetica';font-size:112.56px;fill:#000000">Media Incondicional</text>
+	<text x="2457.17" y="2864.82" style="font-family:'Helvetica';font-size:112.56px;fill:#000000">Tendencia de Filtro HP</text>
+	<text x="2457.17" y="3022.26" style="font-family:'Helvetica';font-size:112.56px;fill:#000000">Proyección del ciclo</text>
+	<text x="2987.89" y="243.10" style="font-family:'Helvetica';font-size:157.44px;fill:#000000" text-anchor="middle">Evolución del Crecimiento (%) del Índice de remuneraciones</text>
+</svg>
